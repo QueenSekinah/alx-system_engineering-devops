@@ -1,1 +1,1 @@
-I am forever a Queen
+0x02. Shell, I/O Redirections and filters
